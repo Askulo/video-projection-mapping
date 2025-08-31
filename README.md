@@ -7,6 +7,7 @@ An interactive web project built with **Three.js** and **GSAP**, featuring dynam
 ## 📂 Project Structure
 ```
 
+```
 .
 ├── App.js
 ├── index.html
@@ -64,7 +65,4 @@ Licensed under the **MIT License** – feel free to use and modify.
 
 ✨ Built with ❤️ using Three.js & GSAP
 
-```
 
-Do you also want me to **embed preview GIF/video of your project** inside this README (like `![Demo](demo.gif)`) so it looks more engaging on GitHub?
-```
